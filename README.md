@@ -5,4 +5,9 @@ Python training
 
 This project requires iPython 3 and the requests package.
 
-`iptyhon3 find_meteors.py`
+First, install pipenv. then:
+
+```
+pipenv install
+pipenv run "Python find_meteors.py"
+```
